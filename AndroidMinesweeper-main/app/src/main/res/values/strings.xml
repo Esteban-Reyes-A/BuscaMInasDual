@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Busca Minas</string>
+
+    <string name="smiley">R</string>
+    <string name="flag">B</string>
+    <string name="bomb">0</string>
+    <string name="default_count">000</string>
+</resources>
